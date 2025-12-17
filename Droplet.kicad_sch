@@ -2944,6 +2944,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25100"
+			(at 176.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7926e947-eb27-4ff4-9e0b-8b70b6ad5ed9")
 		)
@@ -3444,6 +3453,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25100"
+			(at 177.8 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d39131e5-bbcf-4146-8415-05593876c0a7")
 		)
@@ -3512,6 +3530,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25133"
+			(at 176.53 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7182ff33-5e03-4960-8cdb-41e063f19243")
 		)
@@ -3571,6 +3598,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 177.8 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C25133"
 			(at 177.8 91.44 0)
 			(effects
 				(font
@@ -3699,9 +3735,9 @@
 		(at 170.18 74.93 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "339f71ee-728d-464f-9f7a-2a31d0a523ac")
 		(property "Reference" "J3"
@@ -3779,7 +3815,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "ATtiny202-SS"
+		(property "Value" "ATtiny202-SSNR"
 			(at 50.8 48.26 0)
 			(effects
 				(font
@@ -3854,9 +3890,9 @@
 		(at 170.18 80.01 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3eff4458-1790-48ee-91e5-d4d14a92f793")
 		(property "Reference" "J4"
@@ -4118,6 +4154,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25100"
+			(at 176.53 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "653232b2-ef37-47fb-83a6-8231b5a69eb1")
 		)
@@ -4206,9 +4251,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "5e6192f9-faf7-4d99-8e89-2185ff77286d")
 		(property "Reference" "J11"
@@ -4274,9 +4319,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "60d8f1d3-c740-47f8-a650-226f68280a81")
 		(property "Reference" "J12"
@@ -4342,9 +4387,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "631cad30-5b95-4b0b-b695-df0d5c19ff35")
 		(property "Reference" "J9"
@@ -4450,6 +4495,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 177.8 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C25100"
 			(at 177.8 86.36 0)
 			(effects
 				(font
@@ -4687,9 +4741,9 @@
 		(at 170.18 90.17 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7a7b5e77-7538-47c2-8837-483eddaaebcf")
 		(property "Reference" "J6"
@@ -4822,9 +4876,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "820fbf0d-42fa-468b-aee6-f2e6e3635696")
 		(property "Reference" "J8"
@@ -5052,9 +5106,9 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a4ec81e4-e08d-40a9-b54d-25654e3b2aac")
 		(property "Reference" "J10"
@@ -5166,6 +5220,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25100"
+			(at 177.8 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "61782aba-9c1d-430a-923c-18a899b3cb1a")
 		)
@@ -5186,9 +5249,9 @@
 		(at 170.18 69.85 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "a7591a3a-86ee-46d2-a2a5-0c309cc4c83b")
 		(property "Reference" "J7"
@@ -5528,6 +5591,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 176.53 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C25100"
 			(at 176.53 40.64 0)
 			(effects
 				(font
@@ -6037,9 +6109,9 @@
 		(at 170.18 85.09 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "f62c8515-01c9-406a-b84b-79fc64a373c3")
 		(property "Reference" "J5"
